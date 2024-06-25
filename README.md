@@ -1,1 +1,1 @@
-# App-with-Llama-2-with-Clarifai
+# llama-with-clarifai
